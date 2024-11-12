@@ -91,4 +91,5 @@ const NSEStockPrice = () => {
   );
 };
 
-export default NSEStockPrice;
+export default NSEStockPrice;  
+
